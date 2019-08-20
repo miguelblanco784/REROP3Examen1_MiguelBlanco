@@ -1,0 +1,4 @@
+Gano el equipo 1: 
+Nombre: Josue Rodriguez  Tipo: SSoporte  Vida Restante: 27  Puntos de ataque: 3
+Nombre: Erick Martinez  Tipo: SSoporte  Vida Restante: 35  Puntos de ataque: 4
+Nombre: Richard Padgett  Tipo: SSoporte  Vida Restante: 36  Puntos de ataque: 3
